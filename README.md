@@ -2,10 +2,13 @@
 
 I want to learn English
 So I will write a document in English even though it's not enough.
+
 영어를 배우고 싶고 부족하지만 영어로 문서를 작성할 예정!
 
 I'm very very new developer(Node.js) 
+
 I'll be a real hard-working developer.
+
 Thank U visite my repo.
 
 I want to be friends with someone who uses English.
