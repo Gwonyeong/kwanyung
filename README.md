@@ -6,7 +6,7 @@ So I will write a document in English even though it's not enough.
 영어를 배우고 싶고 부족하지만 영어로 문서를 작성할 예정!
 
 I'm very very new developer(Node.js) 
-저는 정말 신입 개발자입니다.
+저는 신입 개발자입니다.
 
 I'll be a real hard-working developer.
 꼭 일 잘하는, 멋진 개발자가 되고싶어요 :)
